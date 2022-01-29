@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Distributed Databases, Web Applications and Kubernetes.
 - 🌱 I’m currently learning about Finance and Life.
-- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/mynetwork/)
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/thealgo/)
 - 😄 Pronouns: He/His
 - ⚡ I love sketching 🙅🏼‍♂️
 
