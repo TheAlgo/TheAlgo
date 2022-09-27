@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Distributed Databases/ Search Engines, Web Applications and Kubernetes.
+- 🔭 I’m currently working on Distributed Storage System/ Search System, Web Applications and Kubernetes.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/thealgo/)
 - 😄 Pronouns: He/His
 - ⚡ I love sketching 🙅🏼‍♂️
